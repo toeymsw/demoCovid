@@ -1,16 +1,3 @@
-# codeproj
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Covid app
+<img src="https://user-images.githubusercontent.com/123874088/215453240-42c0583c-13de-40d6-8c51-4fe0b83c2206.png" width ="250"> <img src="https://user-images.githubusercontent.com/123874088/215456057-0fb055d4-cde1-4673-86bd-c63f6a545ec3.png" width ="250"> <img src="https://user-images.githubusercontent.com/123874088/215456068-1e7b1874-f7f0-4989-ae55-c884aac5b1d6.png" width ="250"> 
+<img src="https://user-images.githubusercontent.com/123874088/215456076-7f014196-6021-4854-a5a1-06037099565c.png" width ="250"> <img src="https://user-images.githubusercontent.com/123874088/215456080-f7082494-aefb-47cd-828f-b1c9c82b857f.png" width ="250">
